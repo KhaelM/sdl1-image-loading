@@ -1,0 +1,1 @@
+SDL_WM_SetIcon must be called before SetVideoMode
